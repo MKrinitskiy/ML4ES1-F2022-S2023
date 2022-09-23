@@ -46,7 +46,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 
   ​	Перевод на русский язык: [Бишоп К.М. "Распознавание образов и машинное обучение"](https://www.ozon.ru/product/raspoznavanie-obrazov-i-mashinnoe-obuchenie-bishop-kristofer-m-180548800/)
 
-- [Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) - справочник по соотношениям в матричной форме
+- [**Matrix cookbook**](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) - справочник по соотношениям в матричной форме
 
 - Курс лекций [К.В. Воронцова](http://www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2):
   - [Математические методы обучения по прецедентам](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
