@@ -19,6 +19,8 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 3 | 04.10.2022 | Технические средства анализа данных | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect03)<br/>[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect03) |
 | Лекция 4 | 11.10.2022 | Вероятностная постановка задачи регрессии МО.<br />Метод максимального правдоподобия.<br />Линейная регрессия как метод МО. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect04)<br/>[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect04) |
 | ДЗ №1 | 11.10.2022<br />дедлайн **25.10.2022** | Функция потерь линейной регрессии в предположении о лапласовском распределении данных | [результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/HW01/leaderboard.md) |
+| Лекция №5 | 18.10.2022 | Общий подход решения задач машинного обучения ("Обучение с учителем")<br />Признаковое описание объектов/событий. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect05)<br/>[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect05) |
+| ДЗ №2 | 18.10.2022<br />дедлайн **01.11.2022** | Постановка задач МО | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW02)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/HW02/leaderboard.md) |
 
 
 
