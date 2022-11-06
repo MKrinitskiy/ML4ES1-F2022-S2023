@@ -21,6 +21,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | ДЗ №1 | 11.10.2022<br />дедлайн **25.10.2022** | Функция потерь линейной регрессии в предположении о лапласовском распределении данных | [результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/HW01/leaderboard.md) |
 | Лекция №5 | 18.10.2022 | Общий подход решения задач машинного обучения ("Обучение с учителем")<br />Признаковое описание объектов/событий. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect05)<br/>[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect05) |
 | ДЗ №2 | 18.10.2022<br />дедлайн **01.11.2022** | Постановка задач МО | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW02)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/HW02/leaderboard.md) |
+| Лекция №6 | 01.11.2022 | Подход решения задач машинного обучения ("Обучение с учителем") - подробно. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect06)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect06) |
 
 
 
