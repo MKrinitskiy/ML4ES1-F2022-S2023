@@ -15,7 +15,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 
 В [плане](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/homeworks_policy.md) по домашним заданиям и их оценке отражен текущий состав ДЗ за 1 семестр с аннотацией баллов на автозачет и допуск к зачету.
 
-[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/leaderboard_1semester.md) будут отметки об автозачетах, допуске к зачету и зачетах.
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/leaderboard_1semester.md) уже сейчас можно ознакомиться с отметками об автозачетах, допуске к зачету и зачетах.
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/term1_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
 
