@@ -41,6 +41,9 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция №10 | 29.11.2022 | Оценка неопределенностей меры качества, параметров модели, целевой переменной с применением подхода Bootstrap | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect10)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect09) |
 | ДЗ №4 | 29.11.2022<br />дедлайн **15.12.2022** | Решение задачи машинного обучения с использованием модели линейной регрессии с оценкой неопределенностей. | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW04)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/tree/main/HW04/leaderboard.md) |
 | Лекция №11 | 06.12.2022 | Оптимизация параметрических моделей МО.<br />Семейства методов оптимизации. Градиентная оптимизация. | [видеозапись](https://ml4es.ru/links/ML4ES1-2022-Lect11)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect11) |
+|  |  | 2-й семестр |  |
+| Лекция 12 | 15.02.2023 | Задача классификации.<br />Метод К ближайших соседей. | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-02-15-Lect12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect12) |
+| Лекция 13 | 21.02.2023 | Задача классификации.<br />Вероятностный способ решения.<br />Байесовский классификатор.<br />Наивный байесовский классификатор (Naïve Bayes classifier) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-02-21-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect13) |
 
 ### Рекомендуемая литература
 
