@@ -45,6 +45,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 12 | 15.02.2023 | Задача классификации.<br />Метод К ближайших соседей. | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-02-15-Lect12)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect12) |
 | Лекция 13 | 21.02.2023 | Задача классификации.<br />Вероятностный способ решения.<br />Байесовский классификатор.<br />Наивный байесовский классификатор (Naïve Bayes classifier) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-02-21-Lect13)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect13) |
 | Лекция 14 | 28.02.2023 | Наивный байесовский классификатор своими руками (код)<br />Линейный дискриминантный анализ (LDA)<br />Квадратичный дискриминантный анализ (QDA) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-02-21-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect14) |
+| Лекция 15 | 07.03.2023 | Логистическая регрессия<br />Практика (демонстрация кода) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-07-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect15) |
 
 ### Рекомендуемая литература
 
