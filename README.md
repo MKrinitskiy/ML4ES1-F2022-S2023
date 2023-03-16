@@ -47,6 +47,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 14 | 28.02.2023 | Наивный байесовский классификатор своими руками (код)<br />Линейный дискриминантный анализ (LDA)<br />Квадратичный дискриминантный анализ (QDA) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-02-21-Lect14)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect14) |
 | Лекция 15 | 07.03.2023 | Логистическая регрессия<br />Практика (демонстрация кода) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-07-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect15) |
 | ДЗ №5 | 07.03.2023<br />дедлайн **23.03.2023** | Свойства логистической регрессии | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW05)<br />[Описание в PDF](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW05/README.pdf)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/tree/main/HW05/leaderboard.md) |
+| Лекция 16 | 16.03.2023 | Мультиномиальная логистическая регрессия<br />Библиотека автоматического вычисления градиентов [JAX](https://github.com/google/jax)<br />Практика (демонстрация кода) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-16-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect16) |
 
 ### Рекомендуемая литература
 
