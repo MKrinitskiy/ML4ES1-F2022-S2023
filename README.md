@@ -48,6 +48,9 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 15 | 07.03.2023 | Логистическая регрессия<br />Практика (демонстрация кода) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-07-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect15) |
 | ДЗ №5 | 07.03.2023<br />дедлайн **23.03.2023** | Свойства логистической регрессии | [Описание](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW05)<br />[Описание в PDF](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/HW05/README.pdf)<br />[результаты](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/tree/main/HW05/leaderboard.md) |
 | Лекция 16 | 16.03.2023 | Мультиномиальная логистическая регрессия<br />Библиотека автоматического вычисления градиентов [JAX](https://github.com/google/jax)<br />Практика (демонстрация кода) | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-16-Lect16)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect16) |
+| Лекция 17 | 21.03.2023 | Оценка качества в задачах классификации. | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-21-Lect17)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect17) |
+| Лекция 18 | 28.03.2023 | Непараметрические методы машинного обучения.<br />Деревья решений. | [видеозапись](https://ml4es.ru/links/ML4ES1-2023-03-28-Lect18)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/main/Lect18) |
+| ДЗ №6 | 30.03.2023<br />дедлайн **13.04.2023** | Классификация рукописных цифр с применением модели мультиномиальной логистической регрессии. |  |
 
 ### Рекомендуемая литература
 
