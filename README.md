@@ -21,6 +21,16 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 
 
 
+## Зачетная сессия II-го семестра
+
+Состав домашних заданий зафиксирован на двух.
+
+В [плане](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/homeworks_policy.md) по домашним заданиям и их оценке отражен текущий состав ДЗ за 1 семестр с аннотацией баллов на автозачет и допуск к зачету.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2022-S2023/blob/master/leaderboard_2semester.md) уже сейчас можно ознакомиться с отметками об автозачетах, допуске к зачету и зачетах.
+
+
+
 -------
 
 | Title | Date | Topic | Content |
